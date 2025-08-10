@@ -107,6 +107,4 @@ This project serves as a solid baseline. To improve the model's performance, esp
   * **Experiment with Different Models:** Compare the SVC's performance against other algorithms known to perform well on imbalanced data, such as **Random Forest**, **XGBoost**, or **LightGBM**.
   * **Hyperparameter Tuning:** Use `GridSearchCV` or `RandomizedSearchCV` to find the optimal hyperparameters for the chosen model to potentially improve recall and F1-score.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
